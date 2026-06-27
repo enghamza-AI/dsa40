@@ -8,5 +8,4 @@ No Leetcode. No grinding. Just building real understanding.
 ## Why this repo exists
 
 I wanted to actually *understand* data structures and algorithms —
-not just memorise patterns to pass interviews. So I built a structured
-82-day curriculum, one concept per day, 40 minutes max.
+not just memorise patterns to pass interviews. So I built a structured curriculum, one concept per day, 40 minutes max.
